@@ -1,4 +1,4 @@
-tracer.property: "I AM THE DEFAULT"
+tracer.property: "I AM THE DEV CONFIG"
 spring.jpa.database: "MySQL"
 spring.datasource.platform: "MySQL"
 spring.jpa.show-sql: "true"

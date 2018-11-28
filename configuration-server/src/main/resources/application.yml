@@ -3,8 +3,8 @@ server:
 spring: 
   profiles: 
     active: native 
-  cloud: 
-     config: 
-       server: 
-           native: 
-              searchLocations: file://Users/c.aguilar.rodriguez/git/configuration-server/configuration-server/src/main/resources/config/racesservice.yml
+#  cloud: 
+#     config: 
+#       server: 
+#           native: 
+#              searchLocations: file://Users/c.aguilar.rodriguez/git/configuration-server/configuration-server/src/main/resources/config/racesservice.yml
